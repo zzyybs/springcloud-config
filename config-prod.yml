@@ -1,2 +1,2 @@
 config:
-  info: "config atguigu info for prod(dev)"
+    info: "dev branch,springcloud-config/config-prod.yml version=1" 
