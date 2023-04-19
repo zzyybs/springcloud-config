@@ -1,3 +1,3 @@
 config:
   info: "master branch,springcloud-config/config-prod.yml version=6"
-  iptest: 10.5.9.12
+  iptest: 10.5.9.11
